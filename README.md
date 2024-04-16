@@ -59,6 +59,8 @@ The application will start, and you can access it at `http://localhost:3000`.
         "Name": "string"
     }
     ```
+  - Screenshot:
+    ![DisplayUser](https://github.com/wawew/golang-simple-user/assets/69183538/e43a5a13-5acd-40df-8a93-89020c3e54d2)
 - **POST /DisplayAllUsers**: Get all users.
   - Response:
     ```json
@@ -69,3 +71,5 @@ The application will start, and you can access it at `http://localhost:3000`.
         }
     ]
     ```
+  - Screenshot:
+    ![DisplayAllUsers](https://github.com/wawew/golang-simple-user/assets/69183538/0461e383-dd25-4d43-a06e-001ae1bb31e9)
